@@ -1,0 +1,1 @@
+公司内部由于网络代理问题，无法连接go的标准代理https://goproxy.cn 要通过IDE，比如wecode的go相关插件，设计GOPROXY的值为公司内部代理，即可正常完成符号解析
